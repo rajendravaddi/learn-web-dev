@@ -93,8 +93,6 @@ Also understand:
 * CORS
 * HTTP vs HTTPS
 
-You don't need to memorize every status code.
-
 ---
 
 ## 3. HTML
